@@ -1,4 +1,4 @@
-# Pre-training Transformer with Dual-branch Context Content Module for Table Detection in Document Images
+# TD with DCCAM
 
 ## Get Started
 
