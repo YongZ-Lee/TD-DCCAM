@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-# --------------------------------------------------------------------------------
-# MPViT: Multi-Path Vision Transformer for Dense Prediction
-# Copyright (c) 2022 Electronics and Telecommunications Research Institute (ETRI).
-# All Rights Reserved.
-# Written by Youngwan Lee
-# --------------------------------------------------------------------------------
 
 """
 Detection Training Script for MPViT.
