@@ -52,4 +52,4 @@ Thanks to [DIT](https://github.com/microsoft/unilm/tree/master/dit) for providin
 
 Thanks to [Detectron2](https://github.com/facebookresearch/detectron2) for Cascade Mask R-CNN implementation.
 
-Thanks to [YOLOv8](https://github.com/ultralytics/ultralytics) for providing the open-source framework.
+Thanks to [YOLOv8](https://github.com/ultralytics/ultralytics) and [ACFPN](https://github.com/Caojunxu/AC-FPN) for providing the open-source framework.
